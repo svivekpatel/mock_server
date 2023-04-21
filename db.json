@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "shivam",
+      "email": "shivam@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 21,
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "recipes": [
+    {
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water."
+    },
+    {
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water."
+    },
+    {
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water."
+    },
+    {
+      "title": "Hazelnut Brownies",
+      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
+      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
+      "category": "Dessert",
+      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
+      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water."
+    }
+  ]
+}
