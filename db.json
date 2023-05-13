@@ -1,25 +1,28 @@
 {
-  "employee": [
+  "ice_cream": [
     {
-      "fname": "vivek",
-      "lname": "patel",
-      "email": "p@mail.com",
-      "salary": "1000",
-      "id": 2
+      "id":1,
+      "name": "Dark Chocolate",
+      "Flavor": "Chocolate",
+      "Description": "Rich, creamy chocolate ice cream.",
+      "Price": 250,
+      "Stock": 10
     },
     {
-      "fname": "vivek",
-      "lname": "patel",
-      "email": "v@mail.com",
-      "salary": 0,
-      "id": 3
-    }
-  ],
-  "comments": [
+      "id":2,
+      "name": "Classic Vanilla",
+      "Flavor": "Vanilla",
+      "Description": "Classic vanilla ice cream.",
+      "Price": 200,
+      "Stock": 15
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id":3,
+      "name": "Neapolitan",
+      "Flavor": "Strawberry",
+      "Description": "Fresh and fruity strawberry ice cream.",
+      "Price": 300,
+      "Stock": 8
     }
   ],
   "profile": {
