@@ -25,6 +25,27 @@
       "Stock": 8
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "chunnu",
+      "email": "chunnu@mail.com",
+      "password": "chunnu"
+    },
+    {
+      "id": 2,
+      "fullName": "munnu",
+      "email": "munnu@mail.com",
+      "password": "munnu"
+    },
+    {
+      "id": 3,
+      "fullName": "tunnu",
+      "email": "tunnu@mail.com",
+      "password": "tunnu"
+    }
+    
+  ],
   "profile": {
     "name": "typicode"
   }
