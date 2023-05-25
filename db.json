@@ -1,28 +1,24 @@
 {
-  "ice_cream": [
+  "appointments": [
     {
-      "id":1,
-      "name": "Dark Chocolate",
-      "Flavor": "Chocolate",
-      "Description": "Rich, creamy chocolate ice cream.",
-      "Price": 250,
-      "Stock": 10
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
     },
     {
-      "id":2,
-      "name": "Classic Vanilla",
-      "Flavor": "Vanilla",
-      "Description": "Classic vanilla ice cream.",
-      "Price": 200,
-      "Stock": 15
-    },
-    {
-      "id":3,
-      "name": "Neapolitan",
-      "Flavor": "Strawberry",
-      "Description": "Fresh and fruity strawberry ice cream.",
-      "Price": 300,
-      "Stock": 8
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
     }
   ],
   "users": [
