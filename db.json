@@ -24,21 +24,24 @@
   "users": [
     {
       "id": 1,
-      "fullName": "chunnu",
+      "username": "chunnu",
       "email": "chunnu@mail.com",
-      "password": "chunnu"
+      "password": "chunnu",
+      "isDoctor": true
     },
     {
       "id": 2,
-      "fullName": "munnu",
+      "username": "munnu",
       "email": "munnu@mail.com",
-      "password": "munnu"
+      "password": "munnu",
+      "isDoctor": true
     },
     {
       "id": 3,
-      "fullName": "tunnu",
+      "username": "tunnu",
       "email": "tunnu@mail.com",
-      "password": "tunnu"
+      "password": "tunnu",
+      "isDoctor": false
     }
     
   ],
